@@ -205,22 +205,22 @@ function App() {
                   href="mailto:info@techshabaka.com"
                   className="text-emerald-900 hover:underline"
                 >
-                  info@techshabaka.com
+                  techshabaka57@gmail.com
                 </a>
               </p>
               <p className="text-gray-800 text-lg">
                 <span className="font-semibold">Phone:</span>{" "}
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+8801834403302"
                   className="text-emerald-900 hover:underline"
                 >
-                  +1 234 567 890
+                  +8801834403302
                 </a>
               </p>
 
               <div className="social-media flex justify-center gap-6 mt-4">
                 <a
-                  href="https://twitter.com/youragency"
+                  href="https://twitter.com/techshabaka"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-emerald-900 text-xl hover:text-emerald-700 transition"
@@ -228,7 +228,7 @@ function App() {
                   <i className="fab fa-twitter"></i> Twitter
                 </a>
                 <a
-                  href="https://instagram.com/youragency"
+                  href="https://instagram.com/techshabaka"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-emerald-900 text-xl hover:text-emerald-700 transition"
